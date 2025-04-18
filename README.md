@@ -10,9 +10,9 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 
 ## 📚 Featured Projects
 - **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
-   *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake.*
+   *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake💼 [writeup][(https://medium.com/@onomedenor24/analyzing-the-participation-level-of-poultry-farmers-in-agricultural-insurance-in-northern-nigeria-aead01f9ed6b)]*
 - **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
-  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
+  *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.💼 [writeup][(https://medium.com/@onomedenor24/socio-economic-characteristics-farming-practices-and-productivity-of-maize-farmers-in-kenya-58928d69edef)]*
 - **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE**  
   *An experimental project assessing the agronomic and economic effects of mycorrhizal fungi on cabbage farming in Kenya, aimed at improving soil health, productivity, and profitability for smallholder farmers.*
 
@@ -24,4 +24,4 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 
 ## 📫 Let’s Connect!
 - 📧 Email: onomedenor24@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/onome-akhidenor-713684271/)  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/onome-akhidenor-713684271/)]  
