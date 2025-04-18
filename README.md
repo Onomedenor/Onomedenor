@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Lauren
+# 👋 Hi, I'm Akhidenor Lauren
 Final-year Agricultural Economics student focused on food insecurity, climate change, agricultural sustainability, and sustainable economic growth. Passionate about using data analysis and economic modeling to inform agricultural policy and development in Nigeria and beyond.
 
 ## 🧰 Tools & Skills
-- 📊 Power BI | SPSS | Excel | STATA
-- 📈 Data Analysis & Visualization
-- 🌱 Agricultural & Environmental Economics
-- 💹 Financial Metrics Analysis
-- ✍️ Academic Writing & Research
+- Power BI | SPSS | Excel | STATA
+- Data Analysis & Visualization
+- Agricultural & Environmental Economics
+- Financial Metrics Analysis
+
 
 ## 📚 Featured Projects
 - **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
@@ -16,7 +16,7 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 - **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE**  
   *An experimental project assessing the agronomic and economic effects of mycorrhizal fungi on cabbage farming in Kenya, aimed at improving soil health, productivity, and profitability for smallholder farmers.*
 
-## 🌍 What I Care About
+## Passion
 - Advancing Food Security  
 - Building Climate Resilience  
 - Promoting Sustainability in Agriculture  
